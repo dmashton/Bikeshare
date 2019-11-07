@@ -41,4 +41,4 @@ Program Libraries:
 - [Stopping a Python Script - Stackoverflow.com](https://stackoverflow.com/questions/19782075/how-to-stop-terminate-a-python-script-from-running/34029481)
 - [Pandas Reference dt.month - Pydata.org](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.month_name.html)
 - [Python Library functions - Python.org](https://docs.python.org/3/library/functions.html)
-- [Extract Values in pandas value counts - stackoverflow.com](https://stackoverflow.com/questions/35523635/extract-values-in-pandas-value-counts/35523820)
+- [Extract Values in pandas value counts - stackoverflow.com](https://stackoverflow.com/questions/35523635/extract-values-in-pandas-value-counts/35523820) - shows how to display value counts without the datatype annotation
