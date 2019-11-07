@@ -18,7 +18,18 @@ to explore, and any time slice of interest to determine, for example, what the m
 days of the week, and times of day are in those cities.
 
 ### Files used
-Include the files used
+Data files containing just under 1 million time-stamped bike rental trips:
+
+- chicago.csv
+- new_york_city.csv
+- washington.csv
+
+Program Libraries:
+
+- Python executable in an Anaconda environment
+- Python standard libraries such as Time and Calendar Modules
+- Pandas
+- Numpy
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
