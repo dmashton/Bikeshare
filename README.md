@@ -32,4 +32,13 @@ Program Libraries:
 - Numpy
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+- [Pandas Cheat Sheet - Dataquest](https://www.dataquest.io/blog/pandas-cheat-sheet/)
+- [Pandas Dataframe Reference - Geeksforgeeks](https://www.geeksforgeeks.org/python-pandas-dataframe/) -Really good
+- [Dataframe sample - Geeksforgeeks](https://www.geeksforgeeks.org/python-pandas-dataframe-sample/) - Gives syntax
+- [Pandas to datetime - Pydata.org](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html)
+- [Pandas to datetime Additional Info - Geeksforgeeks](https://www.geeksforgeeks.org/python-pandas-to_datetime/)
+- [Pandas dataframe filtering - Scrapingauthority.com](http://scrapingauthority.com/pandas-dataframe-filtering/)
+- [Stopping a Python Script - Stackoverflow.com](https://stackoverflow.com/questions/19782075/how-to-stop-terminate-a-python-script-from-running/34029481)
+- [Pandas Reference dt.month - Pydata.org](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Series.dt.month_name.html)
+- [Python Library functions - Python.org](https://docs.python.org/3/library/functions.html)
+- [Extract Values in pandas value counts - stackoverflow.com](https://stackoverflow.com/questions/35523635/extract-values-in-pandas-value-counts/35523820)
