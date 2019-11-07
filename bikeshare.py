@@ -18,6 +18,7 @@ Files:
         new_york_city.csv
         washington.csv
 Version 1.0   16 Oct 2019
+Last Updated 7 Nov 2019
 """
 
 import time
