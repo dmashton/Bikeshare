@@ -43,3 +43,4 @@ Program Libraries:
 - [Python Library functions - Python.org](https://docs.python.org/3/library/functions.html)
 - [Extract Values in pandas value counts - stackoverflow.com](https://stackoverflow.com/questions/35523635/extract-values-in-pandas-value-counts/35523820) - shows how to display value counts without the datatype annotation
 - [GitHub Writing Guide](https://help.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
+- [GitHub Markdown Guide](https://help.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
