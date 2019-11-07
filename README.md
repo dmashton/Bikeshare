@@ -1,8 +1,9 @@
 ### Date created
-Include the date you created this project and README file.
+Project Create Date: October 16, 2019
+README.md Create Date: November 7, 2019
 
 ### Project Title
-Replace the Project Title
+Python Bike Share Project
 
 ### Description
 Describe what your project is about and what it does
