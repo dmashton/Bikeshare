@@ -18,6 +18,7 @@ Files:
         new_york_city.csv
         washington.csv
 Version 1.0   16 Oct 2019
+Ver 1.1
 Last Updated 7 Nov 2019
 """
 
@@ -40,6 +41,7 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" for no day filter
     """
     print('Hello! Let\'s explore some US bikeshare data!')
+    print("\nBikeshare data is available in the following cities:")
     
     city_list = ['chicago', 'new york city', 'washington']
     valid_months = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
