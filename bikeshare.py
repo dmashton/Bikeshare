@@ -85,9 +85,10 @@ def get_filters():
             exit()    
     
 
-    print('-'*50 + '\n' + '-'*50)
+    print('-'*54)
     print("Stats for {}, Month: {}, Day of Week: {}".format(city.title(), month.title(), 
     day.title()))
+    print('-'*54)
     return city, month, day
 
 
